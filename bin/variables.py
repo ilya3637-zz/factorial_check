@@ -1,0 +1,1 @@
+url_factorial = "https://qa-test.emcd.io/factorial"
